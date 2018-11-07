@@ -20,4 +20,18 @@ public class PropertiesPlayer : MonoBehaviour
         }
     }
 
+    public int Level
+    {
+        get
+        {
+            return exp / 1000;
+        }
+
+        set
+        {
+            exp = value * 1000;
+        }
+    }
+
+    public int Health { get; set; }
 }
