@@ -7,7 +7,7 @@ public class MOSomeOtherClass : MonoBehaviour
 
 	void Start ()
     {
-		MOSomeClass myClass = new MOSomeClass():
+        MOSomeClass myClass = new MOSomeClass();
 
         myClass.Add(1, 2);
         myClass.Add("Hello ", "World");
