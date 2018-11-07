@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 11941115b11c85a408aa0125d2d7db1b
+  productGUID: 2d46d6c5669bc4e45867ec7931d10d60
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Properties
+  productName: Intermediate Gameplay Scripting Tutorial
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -649,8 +649,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 0cfc4ee8-a691-4d08-a43b-68511aca9834
-  projectName: Properties
+  cloudProjectId: 6b659367-9d92-4959-9432-9504c2d81210
+  projectName: Intermediate Gameplay Scripting Tutorial
   organizationId: twilit
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

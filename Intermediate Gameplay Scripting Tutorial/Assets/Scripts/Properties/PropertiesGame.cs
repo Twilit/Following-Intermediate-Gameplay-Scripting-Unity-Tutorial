@@ -2,15 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Game : MonoBehaviour
+public class PropertiesGame : MonoBehaviour
 {
 
 	void Start ()
     {
-        Player myPlayer = new Player();
+        PropertiesPlayer myPlayer = new PropertiesPlayer();
 
         myPlayer.Exp = 5;
 
         int x = myPlayer.Exp;
 	}
+	
 }
