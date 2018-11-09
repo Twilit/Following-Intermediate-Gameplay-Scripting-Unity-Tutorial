@@ -2,15 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InheritanceApple : MonoBehaviour {
+public class InheritanceApple : InheritanceFruit
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public InheritanceApple()
+    {
+        //Constructor code
+    }
+
 }
