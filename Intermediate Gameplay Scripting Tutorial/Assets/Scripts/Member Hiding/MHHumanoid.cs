@@ -5,7 +5,7 @@ using UnityEngine;
 public class MHHumanoid
 {
 
-    void Yell()
+    public void Yell()
     {
         //Play audio clip
         //Move arms

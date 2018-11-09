@@ -5,7 +5,7 @@ using UnityEngine;
 public class MHEnemy : MHHumanoid
 {
 
-    new void Yell()
+    new public void Yell()
     {
         //Change material colour to yellow
     }

@@ -5,7 +5,7 @@ using UnityEngine;
 public class MHOrc : MHEnemy
 {
 
-    new void Yell()
+    new public void Yell()
     {
         //Set NavMesh to a Northern Shetland Isle
     }
