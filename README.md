@@ -2,4 +2,4 @@
 Learning Object Orientated Programming
 
 Tutorial in progress:
-Inheritance
+Interfaces
