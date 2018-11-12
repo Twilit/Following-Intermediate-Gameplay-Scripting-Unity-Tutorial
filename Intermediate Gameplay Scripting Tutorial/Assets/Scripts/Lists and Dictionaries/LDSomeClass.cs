@@ -15,5 +15,12 @@ public class LDSomeClass : MonoBehaviour
         badGuys.Add(new LDBadGuy("Pip", 5));
 
         badGuys.Sort();
+
+        foreach(LDBadGuy guy in badGuys)
+        {
+            print(guy.name + " " + guy.power);
+        }
+
+        badGuys.Clear();
 	}
 }
