@@ -33,4 +33,5 @@ public class PropertiesAndCoroutines : MonoBehaviour
 
             yield return null;
         }
+    }
 }
